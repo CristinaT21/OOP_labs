@@ -31,9 +31,9 @@ first I did update and upgrade
 #### create a c program using touch and nano
 ![Screenshot from 2022-09-12 22-41-10](https://user-images.githubusercontent.com/93125408/189768416-796cc5ab-6226-44bf-bb57-02835a04deb4.png)
 
-![Screenshot from 2022-09-12 22-49-45](https://user-images.githubusercontent.com/93125408/189768600-a3c54fd9-0bab-4c03-a332-c5e6d4626a4f.png)
-
 ![Screenshot from 2022-09-12 22-51-05](https://user-images.githubusercontent.com/93125408/189768648-2a2acb60-c2a5-4a96-aa9b-12a8c95e9a8d.png)
+
+![Screenshot from 2022-09-12 22-49-45](https://user-images.githubusercontent.com/93125408/189768600-a3c54fd9-0bab-4c03-a332-c5e6d4626a4f.png)
 
 #### run c program with gcc
 
@@ -53,4 +53,4 @@ first I did update and upgrade
 
 ![Screenshot from 2022-09-13 00-48-19](https://user-images.githubusercontent.com/93125408/189769556-c6fc3d8b-0b9f-4229-903d-d3243e75610a.png)
 
-
+That's all.)
